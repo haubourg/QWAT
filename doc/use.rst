@@ -121,7 +121,7 @@ La mise à jour sur QWAT se fait dans l’ordre suivant:
 2.2 Directive de saisie des conduites   
 -------------------------------------
 
-.. warning:: CETTE PARTIE EST SUSEPTIBLE DE CHANGER EN FONCTION DU DEVELOPPEMENT DE QWAT !
+.. warning:: CETTE PARTIE EST SUSCEPTIBLE DE CHANGER EN FONCTION DU DEVELOPPEMENT DE QWAT !
 
 La saisie du réseau doit être effectuée en respectant les directives fixées par SIRE, selon les exemples ci‐après.
 
