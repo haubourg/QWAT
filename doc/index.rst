@@ -8,16 +8,24 @@ Welcome to QWAT's documentation!
 
 This is QWAT's project main knowledge base.
 
+QWAT is an open source GIS application for handling drinkable water network management. It is built on top of PostgreSQL + PostGIS and QGIS. 
+
+Main web site : http://qwat.org/
+
+GitHub web site for installation, testing and contribution : https://github.com/qwat
+
+
+
 Please look into the guide corresponding to your profile :
 
 .. toctree::
    :maxdepth: 2
 
-   The user's guide <use>
-   The data manager's guide <data_manager>
-   The administrator's guide <administrator>
-   The contributor's guide <contributor>
-   The developer's guide <developer>
+   User's guide <use>
+   For data manager's <data_manager>
+   For system administrator's <administrator>
+   For developer's <developer>
+   I want to contribute? <contributor>
    Demo data <demo>
    FAQ <faq>
    Glossary <glossary>
